@@ -1,11 +1,11 @@
-{
-  "version": "0.1.56",
-  "notes": "Release 0.1.56",
-  "pub_date": "2026-02-20T04:51:58Z",
+﻿{
+  "version": "0.1.60",
+  "notes": "Release 0.1.60",
+  "pub_date": "2026-02-20T20:25:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUmQ3QU1Lb0VYMlI0a0tMSzVGbjdCTTkrWjVyUUhGQmlkN3BxTUZuNUNJN2U3YmJOVnpZaEgxY0tOZUJYYmJEYTFiVjVGTDVFQ2FVVzR4bzhBWWVhMlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNTYyNTQ4CWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjU2X3g2NC1zZXR1cC5leGUKMnFSd3oxNDBnMW5NRWNObDAreGVxS256MkJsSWN4RlMyVS9idmIyWmViaTJnV2E1L3pKYlJSMitiSzBObG5FLzdQNWNmKzI0a1pDc2xEN0NFYTdtQ0E9PQo=",
-      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.56/Chat_App_Over9000_0.1.56_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUlk4bHJyQk56dUtmUVAvYzQ2ODV3NnBVN2NmVGVrb2JsamNsQ2ZpTWlFSXo4a1crQTgweWE2NjRiU2RDakVMSzNKbHg3NkVNMVlGYS9EVzRIY3hLendZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjE4ODcyCWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjYwX3g2NC1zZXR1cC5leGUKNEZacnpFSmZVZUV4SjVpYllsbHlZQ2F4ckJvNE43VWdnN0xYRTRKTWZ5ZnBGRlhibCtTQVNMUWoybjJXSGRPT3dFUE5sRUNxeGRwV0twRVQ5aHhTQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.60/Chat_App_Over9000_0.1.60_x64-setup.exe"
     }
   }
 }
