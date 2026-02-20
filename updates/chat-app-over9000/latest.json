@@ -1,0 +1,11 @@
+{
+  "version": "0.1.54",
+  "notes": "Release 0.1.54",
+  "pub_date": "2026-02-20T02:53:08Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUmIrNTNhNU5Hb0E0c0NMeHR5UXYvSEFkM2pqNVZDalh5d3hBdUg1WlRVMW5vazZrZk1mOXB5NG9ram5POUJpWEpsaC9FMG02TnlTeUpNbDZXUlBQSmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNTU1MzAwCWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjU0X3g2NC1zZXR1cC5leGUKeXF3OUR0THo3aFpucmFJRGg4aWhMdlY2aEhuZ1piazl6dUxoeHVudlFCajZPVmljdXYxV2lrVUJZcTdVaEN1WHpnditiWElzSzJlSTdXMWVhaW5DQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.54/Chat_App_Over9000_0.1.54_x64-setup.exe"
+    }
+  }
+}
