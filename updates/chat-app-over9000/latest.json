@@ -1,11 +1,11 @@
 {
-  "version": "0.1.79",
-  "notes": "Dashboard batch loading now reuses one resolved Helix auth header set across each sync pass, reducing unauthenticated fallback behavior and slow one-by-one refreshes.",
-  "pub_date": "2026-03-13T21:13:24Z",
+  "version": "0.1.80",
+  "notes": "Dashboard card loading now keeps the public fallback path concurrent when Helix auth or batch requests hiccup, so packaged startup no longer degrades into a minutes-long one-by-one refresh.",
+  "pub_date": "2026-03-13T21:37:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUmV0c0RlVUZlWnRDTGJtNlJKUUYvTjhJa1VnTldVUExHMGJ5cDdRYmNqTGx6VS8xd2RtRFhiLzgvS1gvTlFycm9sVjQ2V09FRXFiNXBacm9tdWFob2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDM2MzM1CWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjc5X3g2NC1zZXR1cC5leGUKQWl3V0FKZGdNaFVWV0trSEVLTkVFZ1g3T3l4Q2pqcDNSK3A5UDdrNytQSTc3ZVhCWVZMNmo5NnMvM24xamdRSzZhWFhYK2lralVla2pyRS9MRDFqQ2c9PQo=",
-      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.79/Chat_App_Over9000_0.1.79_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUmFPTVVKRTVZMkZMMGQzalAwQkczeTkrdHhEWmI4K2dlcDNNN2REQnl0d0EwNE9VbnRCNll1bmNRWlBMekdCcENtcThqNHh1TXlkWndYTEhXUmEza2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDM3ODIzCWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjgwX3g2NC1zZXR1cC5leGUKd0w2ckJjdnV0c0pvTnN1RHBXdEhuN3VoZ3c1V2dPdVNUYktqdm9RTG9jTU9Bc09RcUs4TFpkSFh4ci91bzVGZFRWa3g4SFRoY04yc2MrSGNadjVSREE9PQo=",
+      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.80/Chat_App_Over9000_0.1.80_x64-setup.exe"
     }
   }
 }
