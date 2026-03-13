@@ -1,11 +1,11 @@
 {
-  "version": "0.1.66",
-  "notes": "fix(multistream): persistent WebView2 cookies for Twitch embed auth",
-  "pub_date": "2026-02-22T18:00:00Z",
+  "version": "0.1.72",
+  "notes": "Maintenance release with stability fixes and updater alignment.",
+  "pub_date": "2026-03-13T13:53:42Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUllJTE9QZHRtTUNYRlVic29TOVAvUTBTK003Mys1N0QweGJRV25Td3BxZXFaT01mUjFKWDRNOHhZMU5lSmdIQUhvblBMTlh6eWdrVStxSnJKU2hSRWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNzgwNTMzCWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjY2X3g2NC1zZXR1cC5leGUKaHEwY0VUM0czRWw5Y0VLVUlSMW9aMzVZSGhSeDlDVmwrazY0Y295dEUrN1ExdGhBTnhvSDBWTXFmbm0zWGJSbERDRnNGU056eEZzVklRYzMra2hrRHc9PQo=",
-      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.66/Chat_App_Over9000_0.1.66_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUlFiMDdHVVlFbTliZzIrUk9zSENoTUZtSEFBUXcyalNWOTZDeWxWdXJjaXBpNFhvZElCc1NUb3RtUFhCQUcyc1piK3BGR2R2N0F1d0hOY1lGYk1meFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDEwMDIyCWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjcyX3g2NC1zZXR1cC5leGUKdmdRTXEwWHBTNVllUWx2aDZBYWpyL2xqZVRLdWd1N3JKbTRlTHhHZXRlWUw5WGg3SHVnYlFRekk3SytucHoxRlBSRGQzSENPWThvQTQ5eVI2UG5rREE9PQo=",
+      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.72/Chat_App_Over9000_0.1.72_x64-setup.exe"
     }
   }
 }
