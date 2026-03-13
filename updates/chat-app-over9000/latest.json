@@ -1,11 +1,11 @@
 {
-  "version": "0.1.82",
-  "notes": "The dashboard now treats invalid Twitch auth as a re-login-required state instead of silently falling back, and prompts you to reconnect when your session has expired.",
-  "pub_date": "2026-03-13T22:45:59Z",
+  "version": "0.1.83",
+  "notes": "This release restores the navwheel scrollbar marker path and ships the 0.1.83 desktop update payload.",
+  "pub_date": "2026-03-13T23:14:23Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUlZ5Umg2aDRURThyd2Z4cVBUK3pleVV3OWlCNTkxTEo0ak5JRk4rU1ZQQkprTStKRnRYWWdJc3ZhbXhxcGtyZS8wL0tLcElVRzBIWkkrZzRFNFRTandzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDQxOTQ2CWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjgyX3g2NC1zZXR1cC5leGUKZVZINjNUY0hzM0F6c2FLUDJjcXF5MlhZQjdJT2Z4ZW5obnZLODZtQ29iZ2g3WTNhQW9FTUJLbG5DS3doYkxNc2hZaHRVc2UwZjcrQXZ0U3pGUlYrQUE9PQo=",
-      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.82/Chat_App_Over9000_0.1.82_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUlYvM0ptckVKVE5kY0FnOEs1RlRsdkhERmJOSzEvczhRc3FlekRPTTZuQlJVZjc4QTNQZ3o3K2tzOGs2K29JS25ldk9FVi9vQmhSU0syanMvYjlqS0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDQzNjYzCWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjgzX3g2NC1zZXR1cC5leGUKTUZveCt3aFI4dnp5QXpJRDdmQjhDZnZvZUlTWTBjeUFjZzdycXB5eGQrdHRBT2c0S0dHb1oyK3d0SW1yMzNzVW9BanpMNG5OS0M1Q1NUbC8rblFlQXc9PQo=",
+      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.83/Chat_App_Over9000_0.1.83_x64-setup.exe"
     }
   }
 }
