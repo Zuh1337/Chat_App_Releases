@@ -1,11 +1,11 @@
 {
-  "version": "0.1.77",
-  "notes": "OBS source properties, filters, and transform now open in an overlay wizard so the canvas layout stays visible during editing.",
-  "pub_date": "2026-03-13T19:26:29Z",
+  "version": "0.1.78",
+  "notes": "Dashboard session restore now rehydrates the correct owner-scoped cache so followed channels repopulate immediately instead of falling back to placeholder or one-at-a-time refreshes.",
+  "pub_date": "2026-03-13T20:41:07Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUlR6YXdaeWY3ejBVbmk3N1dleDhhMkJHT2llaTNGN09DTTcrMk92SU00R21LTy8zM3JONWRMUjRJeXVaZjdVb3YwbnhNQjNMUi9GSTgxdDNUdUdWZEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDI5ODc3CWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjc3X3g2NC1zZXR1cC5leGUKemJaSHhiT3g3dFNRaWJubHBmYUpXU0hKaFVrOC9ZSTRzNUh0c1NyMmdUTEsvUHowSDdlRGRZQjl1c2gzODdScnhDSWpPMFdIWDdLLy9iRUcxN0NpQkE9PQo=",
-      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.77/Chat_App_Over9000_0.1.77_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUlNuZTF1c2l4ZFV1bDB2aytFSldqTzNLNitjTVhQaXp4enRiU1dVYkt6MUpuT1U0a3NxWm05UGZ4Vklha1A4NEpiL1FHaW5VdUdZYTh0eStoNHdyb3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDM0NDE0CWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjc4X3g2NC1zZXR1cC5leGUKMXFzR2FGY1c2M1BUUDkzM09Nd3NIUCtEVHJoWFZjMUhidzVrZnQvZk4ycnBVV3YzZWoyanNuYW94ZzZKcm1NdVpsQzNzR1VJWkdWNGxra3VhMmF1QVE9PQo=",
+      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.78/Chat_App_Over9000_0.1.78_x64-setup.exe"
     }
   }
 }
