@@ -1,11 +1,11 @@
 {
-  "version": "0.1.75",
-  "notes": "Desktop dashboard cache recovery release with deterministic workspace rebuild.",
-  "pub_date": "2026-03-13T16:43:58Z",
+  "version": "0.1.76",
+  "notes": "Desktop dashboard fast-first loading release with deferred follower and YouTube enrichment.",
+  "pub_date": "2026-03-13T17:39:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUlloRmNhb0RsZG1DSUxKVG1mbS9MWUMxUXdIY3lZN3JWQmNjZnJxU1kvRi90SEJhUnhnMGxFOVBjUE1CQ255bUVKaHdEM094ZDMyUnhHMXkwNkVvSlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDIwMjM4CWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjc1X3g2NC1zZXR1cC5leGUKOEdPazJVcFA1MjMwY1paR05SN1l6YnVrd3BHNU53NXpJUHB6TlNtNW5XZUFFaW1GQXRGVnU5RWtVbUg1RmJtNndha3BnaVhYMEF0RS9FbmJBRWp0QkE9PQo=",
-      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.75/Chat_App_Over9000_0.1.75_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUmZ1U0xSZ1VSeFNNdmdkb1dUbXFNMTlyS1JJVXdQMTRzZ1ljaXhWT3pRK0NITHBvaWVIRmJlSW03US9JMXRYcjhuQ2FHN3NsMXVZM3ZENm9PVldHV0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDIzNTk2CWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjc2X3g2NC1zZXR1cC5leGUKVjc0bDlZN3dvcjlkL2pQS1ZMM2tlMDR2YWx1VU5KWDdnVU1DUUZOTlBGd1FCaGpNNExJQnkveHBIUm5JeDlZby8rVVZMS0NXZkU3c0hTVGk5amVVQWc9PQo=",
+      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.76/Chat_App_Over9000_0.1.76_x64-setup.exe"
     }
   }
 }
