@@ -1,11 +1,11 @@
 {
-  "version": "0.1.80",
-  "notes": "Dashboard card loading now keeps the public fallback path concurrent when Helix auth or batch requests hiccup, so packaged startup no longer degrades into a minutes-long one-by-one refresh.",
-  "pub_date": "2026-03-13T21:37:52Z",
+  "version": "0.1.81",
+  "notes": "Restored chat panes now keep their saved channel until async reconnect finishes, so previous sessions no longer reopen as Empty during startup.",
+  "pub_date": "2026-03-13T22:25:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUmFPTVVKRTVZMkZMMGQzalAwQkczeTkrdHhEWmI4K2dlcDNNN2REQnl0d0EwNE9VbnRCNll1bmNRWlBMekdCcENtcThqNHh1TXlkWndYTEhXUmEza2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDM3ODIzCWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjgwX3g2NC1zZXR1cC5leGUKd0w2ckJjdnV0c0pvTnN1RHBXdEhuN3VoZ3c1V2dPdVNUYktqdm9RTG9jTU9Bc09RcUs4TFpkSFh4ci91bzVGZFRWa3g4SFRoY04yc2MrSGNadjVSREE9PQo=",
-      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.80/Chat_App_Over9000_0.1.80_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVWRHUVBLZUJsUlkrQ2xjZytHMSsxOTF3N1FTV09CZkEzN3VVRm1heHFmRmNObEpCRkNPcEJYaXF6cjlxamFTcWxpdVZOZEQwWU1pZklYV3hQMGROSlFycmJVMFVUMHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDQwNjgxCWZpbGU6Q2hhdF9BcHBfT3ZlcjkwMDBfMC4xLjgxX3g2NC1zZXR1cC5leGUKR1k3UGE2Rm9lbmc0WU5ZR28xd3hxWjQwK0RLaVpwMDJBdU03SndtTnFlWE1tSjJ6SkF5UjEzTVBzOVJ3RktyTjRqK2hIbnpGRmcxMElGWU9aZUFUQ0E9PQo=",
+      "url": "https://raw.githubusercontent.com/Zuh1337/Chat_App_Releases/main/updates/chat-app-over9000/0.1.81/Chat_App_Over9000_0.1.81_x64-setup.exe"
     }
   }
 }
